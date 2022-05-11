@@ -1,0 +1,4 @@
+gTTS==2.2.4
+PyPDF2==1.27.12
+streamlit==1.9.0
+
